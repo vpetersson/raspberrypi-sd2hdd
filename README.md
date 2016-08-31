@@ -1,5 +1,8 @@
 # raspberrypi-sd2hdd
-Experimental scripts for migrating for SD to HDD on the Raspberry Pi
+
+Experimental scripts for migrating for SD cards to the new experimental USB boot support on the Raspberry Pi 3.
+
+These scripts implements the [official guide](https://github.com/raspberrypi/documentation/blob/master/hardware/raspberrypi/bootmodes/msd.md) in an automatic fashion (with some minor improvements).
 
 ## Usage
 
