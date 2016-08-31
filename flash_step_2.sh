@@ -50,4 +50,4 @@ sync
 umount /mnt/target/boot
 umount /mnt/target
 
-echo "Run 'shutdown -h now ' to power off your Raspberry Pi."
+echo "Run 'sudo shutdown -h now' to power off your Raspberry Pi."
