@@ -9,7 +9,7 @@ fi
 rm -f /boot/.firmware_revision
 
 apt-get update
-apt-get install rpi-update
+apt-get install -y rpi-update dosfstools
 
 BRANCH=next rpi-update
 
